@@ -36,7 +36,7 @@
     "@radix-ui/react-tooltip": "^1.2.0",
     "@tidbcloud/serverless": "^0.2.0",
     "autoprefixer": "^10.4.21",
-    "better-auth": "^1.2.5",
+    "better-auth": "^1.4.9",
     "better-sqlite3": "latest",
     "bun-types": "latest",
     "class-variance-authority": "^0.7.1",
